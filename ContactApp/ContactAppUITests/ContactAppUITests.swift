@@ -1,6 +1,6 @@
 //
-//  ToDoAppUITests.swift
-//  ToDoAppUITests
+//  ContactAppUITests.swift
+//  ContactAppUITests
 //
 //  Created by Megan Wilson on 7/11/19.
 //  Copyright © 2019 Megan Wilson. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class ToDoAppUITests: XCTestCase {
+class ContactAppUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
